@@ -1,2 +1,9 @@
-
-packages
+*xcuserdata*
+*.DS_Store
+.theos
+Packages
+packages*
+*xcuserstate*
+Payload*
+Payload
+/.vscode
